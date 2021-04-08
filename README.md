@@ -3,6 +3,7 @@
 
 * Forma Leblon (https://formaleblonrj.com.br/)
 * Grid Residencial (https://agenciax4.com.br/grid-residencial/)
+* Insight Flamengo (https://agenciax4.com.br/insight-flamengo/)
 * Casa Peri (https://agenciax4.com.br/casa-peri/)
 * Cyano Cielo (https://agenciax4.com.br/cielo/)
 * Cyano Mare (https://agenciax4.com.br/cyano-mare/)
