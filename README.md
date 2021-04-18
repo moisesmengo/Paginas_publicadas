@@ -1,5 +1,5 @@
 # Paginas_publicadas
-## Páginas que desenvolvi em projetos freelancer:
+## Landing pages
 
 * Forma Leblon (https://formaleblonrj.com.br/)
 * Grid Residencial (https://agenciax4.com.br/grid-residencial/)
