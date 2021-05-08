@@ -3,6 +3,7 @@
 ## Landing pages
 
 * Microfranqui Next Card (https://nextgoleads.com.br/api/preview-template/31)
+* Next Go Card (https://nextgoleads.com.br/api/preview-template/32)
 
 * Forma Leblon (https://formaleblonrj.com.br/)
 * Grid Residencial (https://agenciax4.com.br/grid-residencial/)
