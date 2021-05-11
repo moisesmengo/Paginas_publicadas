@@ -4,6 +4,7 @@
 
 * Microfranqui Next Card (https://nextgoleads.com.br/api/preview-template/31)
 * Next Go Card (https://nextgoleads.com.br/api/preview-template/32)
+* Shel Guima (https://nextgoleads.com.br/api/preview-template/33)
 
 * Forma Leblon (https://formaleblonrj.com.br/)
 * Grid Residencial (https://agenciax4.com.br/grid-residencial/)
@@ -20,5 +21,5 @@
 
 ## Sites Institucionais
 
-* Nutror (http://studiobrasuka.com.br/nutror/)
+* Nutror (http://nutrorblends.com/)
 * Agencia X4 (https://agenciax4.com.br/)
