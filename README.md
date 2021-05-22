@@ -2,8 +2,8 @@
 
 ## Landing pages
 
-* Microfranqui Next Card (https://nextgoleads.com.br/api/preview-template/31)
-* Next Go Card (https://nextgoleads.com.br/api/preview-template/32)
+* Microfranqui Next Card (https://carddigital.lucrarmmn.com/)
+* Next Go Card (https://kellnextcard.servicosgold.com/)
 * Shel Guima (https://nextgoleads.com.br/api/preview-template/33)
 
 * Forma Leblon (https://formaleblonrj.com.br/)
