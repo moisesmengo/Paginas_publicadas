@@ -1,5 +1,12 @@
 # Paginas_publicadas
 
+## Sites Institucionais
+
+* Nutror (http://nutrorblends.com/)
+* Agencia X4 (https://agenciax4.com.br/)
+* ArrummA (http://arrumma.com.br/)
+* Ibiza (http://ibizagroup.com.br/)
+
 ## Landing pages
 
 * Microfranqui Next Card (https://carddigital.lucrarmmn.com/)
@@ -19,9 +26,3 @@
 * On The Sea (https://agenciax4.com.br/on-the-sea/)
 * PB 50 (https://agenciax4.com.br/pb-50-botafogo/)
 * JB Bait (https://agenciax4.com.br/bait-jardim-botanico/)
-
-## Sites Institucionais
-
-* Nutror (http://nutrorblends.com/)
-* Agencia X4 (https://agenciax4.com.br/)
-* ArrummA (http://arrumma.com.br/)
