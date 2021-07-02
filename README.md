@@ -13,6 +13,7 @@
 * Next Go Card (https://kellnextcard.servicosgold.com/)
 * Shel Guima (https://nextgoleads.com.br/api/preview-template/33)
 * Clube Next go (https://nextgoleads.com.br/api/preview-template/38)
+* Next Card Digital (https://nextgoleads.com.br/api/preview-template/40)
 
 * Forma Leblon (https://formaleblonrj.com.br/)
 * Grid Residencial (https://agenciax4.com.br/grid-residencial/)
