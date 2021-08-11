@@ -8,6 +8,7 @@
 * ArrummA (http://arrumma.com.br/)
 * Ibiza (http://ibizagroup.com.br/)
 * Digital Lions (https://digitallions.com.br/home.html)
+* S-Design (https://agenciax4.com.br/s-design)
 
 ## Landing pages
 
