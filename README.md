@@ -17,6 +17,8 @@
 * Clube Next go (https://nextgoleads.com.br/api/preview-template/38)
 * Next Card Digital (https://nextgoleads.com.br/api/preview-template/40)
 
+* Max Tibete (http://maxtibete.com/)
+
 * Forma Leblon (https://formaleblonrj.com.br/)
 * Grid Residencial (https://agenciax4.com.br/grid-residencial/)
 * Insight Flamengo (https://agenciax4.com.br/insight-flamengo/)
