@@ -13,6 +13,7 @@
 ## Landing pages
 
 * Microfranqui Next Card (https://carddigital.lucrarmmn.com/)
+* Rafael Monezi (https://rafaelmonezi.com/)
 * Next Go Card (https://kellnextcard.servicosgold.com/)
 * Shel Guima (https://nextgoleads.com.br/api/preview-template/33)
 * Clube Next go (https://nextgoleads.com.br/api/preview-template/38)
