@@ -9,6 +9,7 @@
 * Ibiza (http://ibizagroup.com.br/)
 * Digital Lions (https://digitallions.com.br/home.html)
 * S-Design (https://agenciax4.com.br/s-design)
+* Unicórnio RH (https://www.unicorniorh.com.br/)
 
 ## Landing pages
 
