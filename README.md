@@ -8,7 +8,6 @@
 * ArrummA (http://arrumma.com.br/)
 * Ibiza (http://ibizagroup.com.br/)
 * Digital Lions (https://digitallions.com.br/home.html)
-* S-Design (https://agenciax4.com.br/s-design)
 * Unicórnio RH (https://www.unicorniorh.com.br/)
 
 ## Landing pages
@@ -36,4 +35,5 @@
 * On The Sea (https://agenciax4.com.br/on-the-sea/)
 * PB 50 (https://agenciax4.com.br/pb-50-botafogo/)
 * JB Bait (https://agenciax4.com.br/bait-jardim-botanico/)
-* D Design (https://agenciax4.com.br/s-design/)
+* Tom (https://agenciax4.com.br/tom-delfim-moreira/)
+
