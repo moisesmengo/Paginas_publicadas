@@ -9,6 +9,7 @@
 * Ibiza (http://ibizagroup.com.br/)
 * Digital Lions (https://digitallions.com.br/home.html)
 * Unicórnio RH (https://www.unicorniorh.com.br/)
+* corum  (https://new.corum.agr.br/)
 
 ## Landing pages
 
@@ -20,6 +21,7 @@
 * Next Card Digital (https://nextgoleads.com.br/api/preview-template/40)
 
 * Max Tibete (http://maxtibete.com/)
+* genllicaps (https://new.corum.agr.br/)
 
 * Flamengo Houses (https://agenciax4.com.br/flamengotownhouses/)
 * Oceana (https://agenciax4.com.br/oceana)
