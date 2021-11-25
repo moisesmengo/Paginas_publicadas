@@ -7,7 +7,6 @@
 * Agencia X4 (https://agenciax4.com.br/)
 * ArrummA (http://arrumma.com.br/)
 * Ibiza (http://ibizagroup.com.br/)
-* Digital Lions (https://digitallions.com.br/home.html)
 * Unicórnio RH (https://www.unicorniorh.com.br/)
 * corum  (https://new.corum.agr.br/)
 
