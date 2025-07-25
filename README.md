@@ -3,38 +3,15 @@
 ## Sites Institucionais
 
 * Rafael Takei (https://rafaeltakei.com.br/)
+* THe LED: (https://theled.com/)
 * Nutror (http://nutrorblends.com/)
 * Agencia X4 (https://agenciax4.com.br/)
+* Imohoo (https://imohoo.com.br/)
 * ArrummA (http://arrumma.com.br/)
 * Ibiza (http://ibizagroup.com.br/)
-* Unicórnio RH (https://www.unicorniorh.com.br/)
-* corum  (https://new.corum.agr.br/)
-
-## Landing pages
-
-* Microfranqui Next Card (https://carddigital.lucrarmmn.com/)
-* Rafael Monezi (https://rafaelmonezi.com/)
-* Next Go Card (https://kellnextcard.servicosgold.com/)
-* Shel Guima (https://nextgoleads.com.br/api/preview-template/33)
-* Clube Next go (https://nextgoleads.com.br/api/preview-template/38)
-* Next Card Digital (https://nextgoleads.com.br/api/preview-template/40)
-
-* Max Tibete (http://maxtibete.com/)
-* genllicaps (https://new.corum.agr.br/)
-
-* Flamengo Houses (https://agenciax4.com.br/flamengotownhouses/)
-* Oceana (https://agenciax4.com.br/oceana)
-* Grid Residencial (https://agenciax4.com.br/grid-residencial/)
-* Insight Flamengo (https://agenciax4.com.br/insight-flamengo/)
-* Casa Peri (https://agenciax4.com.br/casa-peri/)
-* Cyano Cielo (https://agenciax4.com.br/cielo/)
-* Cyano Mare (https://agenciax4.com.br/cyano-mare/)
-* Forma Leblon (https://formaleblonrj.com.br/)
-* Haus 34 (https://agenciax4.com.br/haus/)
-* Paysandu (https://agenciax4.com.br/23-paysandu/)
-* Igara Leblon (https://agenciax4.com.br/igara/)
-* On The Sea (https://agenciax4.com.br/on-the-sea/)
-* PB 50 (https://agenciax4.com.br/pb-50-botafogo/)
-* JB Bait (https://agenciax4.com.br/bait-jardim-botanico/)
-* Tom (https://agenciax4.com.br/tom-delfim-moreira/)
-
+* Caixa Assistência (https://caixaassistencia.com.br/#/home)
+* Juice Jaz (https://www.julice.com.br/)
+* Lançamentos RJ (https://lancamentosrj.com/)
+* Impactos Filantropia (https://impactos.filantropia.ong/)
+* Prefeitura de Galinhos (https://www.galinhos.rn.gov.br/)
+* Condomínio Mansões (https://condominiomansoes.rio.br/casas/casa-barra-da-tijuca-mansoes-900m%c2%b2-seu-lar-de-luxo-na-zona-oeste-do-rio/)
